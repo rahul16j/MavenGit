@@ -1,7 +1,7 @@
 package Dog;
 
 public class Puppy {
-   int puppyAge;
+   int puppyAg;
 
    public Puppy(String name) {
       // This constructor has one parameter, name.
